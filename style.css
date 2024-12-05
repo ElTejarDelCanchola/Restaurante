@@ -42,7 +42,7 @@ body {
     letter-spacing: 2px;             /* Espaciado entre las letras */
     text-shadow: 1px 1px 2px  rgba(218, 157, 39, 1); /* Sombra sutil */
     transition: all 0.3s ease;       /* Transición suave para el hover */
-    border: 2px solid #ff9100;
+    
 }
 
 .button:hover {
@@ -58,7 +58,6 @@ body {
     justify-content: center;    /* Centra los elementos horizontalmente */
     align-items: center;        /* Centra los elementos verticalmente */
     padding: 10px;              /* Espaciado interno reducido para hacer el recuadro más estrecho */
-    border: 2px solid #ff9203;  /* Borde del recuadro */
     border-radius: 10px;        /* Bordes redondeados */
     background-color: #311C12;  /* Fondo del recuadro */
     max-width: 300px;           /* Ancho máximo del contenedor (ajústalo según el tamaño deseado) */
