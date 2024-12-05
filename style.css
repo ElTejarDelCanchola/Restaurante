@@ -44,8 +44,9 @@ body {
 }
 
 .button:hover {
-    background-color: #5D3F2C;       /* Cambia el color de fondo al pasar el mouse */
+    background-color: #f89008;       /* Cambia el color de fondo al pasar el mouse */
     transform: scale(1.05);           /* Agranda ligeramente el botón */
+    color: #000;
 }
 
 .social-media {
